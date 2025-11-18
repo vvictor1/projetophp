@@ -30,7 +30,7 @@ $burgers = [
 
     <!-- NAV -->
     <header>
-        <h1>Mundo Burger</h1>
+        <h1>Mestre Burger</h1>
         <nav>
             <a href="#inicio">Início</a>
             <a href="#cardapio">Cardápio</a>
@@ -39,7 +39,7 @@ $burgers = [
 
     <!-- BANNER -->
     <section class="banner" id="inicio">
-        <h2>O Melhor Hambúrguer da Cidade!</h2>
+        <h2>Os Melhores Hambúrgueres!</h2>
     </section>
 
     <!-- CARDÁPIO -->
