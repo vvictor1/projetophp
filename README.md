@@ -2,7 +2,10 @@
 
 Tema: Um Site de uma hamburgueria.
 
-Descrição: O site irá conter opções de sabores de hamburgueres e refrigerantes. O objetivo do site é fazer o cliente enviar um pedido.
+Descrição: Um Site de uma hamburgueria. O site irá conter opções de sabores de hamburgueres artersanal e refrigerantese e combos. O objetivo do site é fazer o cliente enviar um pedido
+os pedidos serao salvos em um arquivo json
+
+
 
 Integrantes:
 1-Pedro Lukas
