@@ -6,7 +6,7 @@ $pedido = [
     "endereco" => $_POST['endereco'],
     "telefone" => $_POST['telefone'],
     "pagamento" => $_POST['pagamento'],
-    "hora" => date("d/m/Y H:i:s")
+
 ];
 
 $arquivo = "pedidos.json";
