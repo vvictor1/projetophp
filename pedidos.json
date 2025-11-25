@@ -1,8 +1,14 @@
-
-    {
-        "hamburguer": "Monster Burger",
+{
+    "hamburguer": "Monster Burger",
+    "nome": "Aldo",
+    "endereco": "rua flamengo casa",
+    "telefone": "82932321323",
+    "pagamento": "Pix",
+    "0": {
+        "hamburguer": "Monster X-Burger",
         "nome": "Aldo",
         "endereco": "rua flamengo casa",
         "telefone": "82932321323",
         "pagamento": "Pix"
     }
+}

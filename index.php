@@ -2,21 +2,21 @@
 $burgers = [
     [
         "nome" => "Classic Burger", 
-        "desc" => "Pão brioche, carne 180g, cheddar, alface e tomate.", 
+        "desc" => "Pão Brioche, Um smash 180g, Cheddar Derretido, Molho Especial", 
         "preco" => "24.90",
-        "img" => "https://images.unsplash.com/photo-1606756790138-223a8f1e4a47"
+        "img" => "https://imagens.nivel.com.br/wwwroot/repositorioImagens/niveldelivery/9420/9420_product_5c8e480260f542b39fdb6edacdd2dd24.jpg?_id=51c3f1b8f30248deb90fad700a3e7ea7"
     ],
     [
-        "nome" => "Monster Burger", 
-        "desc" => "Dois smash 100g, cheddar duplo, bacon e molho especial.", 
-        "preco" => "32.90",
-        "img" => "https://images.unsplash.com/photo-1550317138-10000687a72b"
+        "nome" => "Monster X-Burger", 
+        "desc" => "Pão Brioche, Três Smash 150g, Cheddar Derretido, Bacon Crocante, Cebolas Caramelizadas, Molho Especial.", 
+        "preco" => "47,90",
+        "img" => "https://vejario.abril.com.br/wp-content/uploads/2016/11/7979_extreme-monster-brothers-burger-cred-tomas-rangel.jpeg?crop=1&resize=1212,909"
     ],
     [
-        "nome" => "Veggie Burger", 
-        "desc" => "Hambúrguer vegano de grão-de-bico, maionese vegana e salada fresca.", 
-        "preco" => "27.90",
-        "img" => "https://images.unsplash.com/photo-1605478371318-4cf82c6f0485"
+        "nome" => "Garden Burger", 
+        "desc" => "Pão brioche, Hambúrguer vegetal, rúcula, Cenoura ralada, Beterraba ralada.", 
+        "preco" => "29,90",
+        "img" => "https://s2.glbimg.com/jqfaCA6V4Yb2xgU1JzPD200Kaxk=/smart/e.glbimg.com/og/ed/f/original/2018/07/20/matilda_vegano_wellington_nemeth_1.jpg"
     ]
 ];
 ?>
@@ -25,29 +25,29 @@ $burgers = [
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Mundo Burger</title>
+    <title>Mestre Do Burger</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <!-- NAV -->
 <header>
-    <h1>Mundo Burger</h1>
+    <h1>Mestre Do Burger</h1>
     <nav>
         <a href="#inicio">Início</a>
         <a href="#cardapio">Cardápio</a>
-        <a href="#contato">Contato</a>
+        <a href="#contato">Suporte</a>
     </nav>
 </header>
 
 <!-- BANNER -->
 <section class="banner" id="inicio">
-    <h2>O Melhor Hambúrguer da Cidade!</h2>
+    <h2>O Melhor Hambúrguer da Região!</h2>
 </section>
 
 <!-- CARDÁPIO -->
 <section class="cardapio" id="cardapio">
-    <h2>Nosso Cardápio</h2>
+    <h1>Cardápio</h1>
 
     <div class="produtos">
 

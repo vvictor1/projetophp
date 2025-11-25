@@ -31,7 +31,7 @@ nav a:hover { color: #ff0000; }
 /* BANNER */
 .banner {
     height: 70vh;
-    background: url('https://images.unsplash.com/photo-1550547660-d9450f859349') center/cover no-repeat;
+    background: url('https://cdn.folhape.com.br/img/pc/1100/1/dn_arquivo/2020/03/burger1.jpg') center/cover no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,7 +49,7 @@ nav a:hover { color: #ff0000; }
     text-align: center;
 }
 
-.cardapio h2 {
+.cardapio h1 {
     color: #ff0000;
 }
 

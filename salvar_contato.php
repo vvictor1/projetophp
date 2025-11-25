@@ -3,7 +3,6 @@
 $contato = [
     "email" => $_POST['email'],
     "telefone" => $_POST['telefone'],
-    "data" => date("d/m/Y H:i:s")
 ];
 
 $arquivo = "contato.json";

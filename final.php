@@ -31,7 +31,7 @@ file_put_contents($arquivo, json_encode($dados, JSON_PRETTY_PRINT));
 <h2 style="text-align:center;color:#ff0000;">Pedido Realizado!</h2>
 
 <p style="text-align:center;font-size:20px;">
-    Tempo estimado para entrega: <b>35–50 minutos</b><br><br>
+    Tempo estimado para entrega: <b>50-70 minutos</b><br><br>
     Obrigado pelo seu pedido, <?= $pedido['nome'] ?>!
 </p>
 
