@@ -1,7 +1,7 @@
 <?php 
 $burgers = [
     [
-        "nome" => "Classic Burger",
+        "nome" => "Classico Burger",
         "desc" => "Pão brioche, carne 180g, queijo cheddar, alface e tomate.",
         "preco" => "24.90",
         "img" => "https://images.unsplash.com/photo-1601050690597-df0581317f32"
