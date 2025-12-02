@@ -26,7 +26,7 @@ $burgers = [
     ],
     [
     "nome" => "Combo 4 Liberta",
-    "desc" => "4 Classic Burger, 1 Batata Grande, 1 Refrigerante 2L",
+    "desc" => "4 Classic Burger, 1 Batata Grande, 10 Coxinhas, 1 Refrigerante 2L",
     "preco" => "123,90",
     "img" => "https://i.postimg.cc/FHc3D49Z/casal.webp"
     ]
