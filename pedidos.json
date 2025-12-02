@@ -17,5 +17,19 @@
         "endereco": "rua porfiro costa 708",
         "telefone": "8399243233",
         "pagamento": "Pix"
+    },
+    "2": {
+        "hamburguer": "Combo Casal",
+        "nome": "Victor",
+        "endereco": "cruz das armas",
+        "telefone": "8389873",
+        "pagamento": "Cart\u00e3o de Credito"
+    },
+    "3": {
+        "hamburguer": "Combo Casal",
+        "nome": "Victor",
+        "endereco": "cruz das armas",
+        "telefone": "8389873",
+        "pagamento": "Cartao de Credito"
     }
 }

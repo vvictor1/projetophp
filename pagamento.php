@@ -25,7 +25,7 @@ $telefone = $_POST['telefone'];
     <select name="pagamento" required>
         <option>Cartao de Credito</option>
         <option>Cartao de Debito</option>
-        <option>Pix</>option
+        <option>Pix</option>
         <option>Dinheiro</option>
     </select>
 
