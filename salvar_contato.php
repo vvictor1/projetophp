@@ -31,7 +31,7 @@ file_put_contents($arquivo, json_encode($dados, JSON_PRETTY_PRINT));
 </h2>
 
 <p style="text-align:center; font-size:18px;">
-    Sua mensagem foi enviada ao suporte.
+    Recebemos seus dados e entraremos em contato atraves do seu email.
 </p>
 
 </body>

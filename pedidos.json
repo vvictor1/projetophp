@@ -31,5 +31,12 @@
         "endereco": "cruz das armas",
         "telefone": "8389873",
         "pagamento": "Cartao de Credito"
+    },
+    "4": {
+        "hamburguer": "Combo 4 Liberta",
+        "nome": "victor",
+        "endereco": "cruz das armas",
+        "telefone": "999888444",
+        "pagamento": "Pix"
     }
 }
