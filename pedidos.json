@@ -10,5 +10,12 @@
         "endereco": "rua flamengo casa",
         "telefone": "82932321323",
         "pagamento": "Pix"
+    },
+    "1": {
+        "hamburguer": "Monster X-Burger",
+        "nome": "Pedro Lukas",
+        "endereco": "rua porfiro costa 708",
+        "telefone": "8399243233",
+        "pagamento": "Pix"
     }
 }
