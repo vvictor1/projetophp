@@ -17,6 +17,18 @@ $burgers = [
         "desc" => "Pão brioche, Hambúrguer vegetal, rúcula, Cenoura ralada, Beterraba ralada.", 
         "preco" => "29,90",
         "img" => "https://s2.glbimg.com/jqfaCA6V4Yb2xgU1JzPD200Kaxk=/smart/e.glbimg.com/og/ed/f/original/2018/07/20/matilda_vegano_wellington_nemeth_1.jpg"
+    ],
+    [
+    "nome" => "Combo Casal",
+    "desc" => "2 Classic Burger, Batata Média, 2 Refrigerante Lata",
+    "preco" => "55,90",
+    "img" => "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKW8UXd_USaZaBltSxpqnlOfar43yfMk8ItA&s"
+    ],
+    [
+    "nome" => "Combo 4 Liberta",
+    "desc" => "4 Classic Burger, 1 Batata Grande, 1 Refrigerante 2L",
+    "preco" => "123,90",
+    "img" => "https://i.postimg.cc/FHc3D49Z/casal.webp"
     ]
 ];
 ?>
