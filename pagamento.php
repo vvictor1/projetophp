@@ -23,8 +23,8 @@ $telefone = $_POST['telefone'];
 
     <label>Método de pagamento:</label>
     <select name="pagamento" required>
-        <option>Cartão de Credito</option>
-        <option>Cartão de Debito</option>
+        <option>Cartao de Credito</option>
+        <option>Cartao de Debito</option>
         <option>Pix</>option
         <option>Dinheiro</option>
     </select>
